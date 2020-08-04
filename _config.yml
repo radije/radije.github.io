@@ -1,3 +1,7 @@
 name: Raúl Diaz
 description: SW Architect
 theme: jekyll-theme-slate
+avatar: "/assets/img/raul diaz avatar.jpg"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
